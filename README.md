@@ -1,3 +1,2 @@
-# MachineLearningAlgorithms
-Implementation of ML algorithms from scratch.  
+# MachineLearningSandbox
 This repository is a personal learning sandbox.
